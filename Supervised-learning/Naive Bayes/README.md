@@ -5,5 +5,6 @@ Contrary to the fit method, the first call to partial_fit needs to be passed the
 
 ###参考链接###
 [naive_bayes](http://scikit-learn.org/stable/modules/naive_bayes.html)
+
 [平凡而又神奇的贝叶斯方法](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/)
 
